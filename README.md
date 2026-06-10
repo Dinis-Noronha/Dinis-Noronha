@@ -13,17 +13,9 @@ Computer Engineering student at FEUP with an interest in software development, s
 <h3>Tech Stack</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,php,postgres,docker,html,css,git,linux" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,php,postgres,docker,html,css" />
 </p>
 
-
-
-<h3>GitHub Statistics</h3>
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dinis-Noronha&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinis-Noronha&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 
 <h3>Contact</h3>
 
