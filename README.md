@@ -4,16 +4,26 @@
   BSc Student in Informatics and Computing Engineering @ FEUP
 </p>
 
-<hr>
 
 <h3>About Me</h3>
 
-Computer Engineering student at FEUP with an interest in software development, systems programming, databases and web technologies.
+Informatics and Computing Engineering student at FEUP with an interest in software development, systems programming, databases and web technologies.
+
+Currently focused on building strong foundations in computer science while exploring modern software development tools and practices.
+
 
 <h3>Tech Stack</h3>
 
+<p><strong>Languages</strong></p>
+
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,php,postgres,docker,html,css" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,php" />
+</p>
+
+<p><strong>Technologies & Tools</strong></p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,postgres,docker,git,linux" />
 </p>
 
 
